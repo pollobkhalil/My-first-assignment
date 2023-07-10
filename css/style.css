@@ -42,3 +42,64 @@ body{
 }
 /* end header banner */
 
+
+/*start 1st section*/
+main{
+    display: flex;
+    padding-top: 150px;
+}
+.section-contant{
+    text-align: center;
+    
+}
+.section-pera{
+    
+}
+.box-design{
+    display: flex;
+    padding-left: 150px;
+    align-items: center;
+    gap: 2%;
+    padding-right: 150px;
+    padding-left: 150px;
+}
+.box1{
+    height: 317px;
+    width: 300px;
+    background-color: #F1DEE7;
+    border-radius: 150px 150px 0px 0px;
+    
+}
+.box2{
+    height: 317px;
+    width: 300px;
+    background-color: #D9EFF0;
+    border-radius: 150px 150px 0px 0px;
+    
+}
+.box3{
+    height: 317px;
+    width: 300px;
+    background-color: #E3EBDB;
+    border-radius: 150px 150px 0px 0px;
+    
+}
+.box-img-1 {
+    width: 221px;
+    height: 276px;
+    padding: 42px
+}
+.box-img-2 {
+    width: 221px;
+    height: 253px;
+    padding: 42px
+}
+.box-img-3 {
+    width: 221px;
+    height: 276px;
+    padding: 42px
+}
+.anchor{
+    padding-left: 500px;
+    gap:805;
+}
