@@ -259,3 +259,50 @@ main{
     font-weight: 500;
     padding: 17px 48px;
 }
+.ins-pera{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 12px;
+    font-weight: 400;
+
+}
+.section-box-4{
+    width: 229px;
+    height: 253px;
+    background: aqua;
+    background-image: url('../image/Flower\ 01.png');
+    background-size: cover;
+    box-shadow: 0px 6px 50px 0px rgba(218, 44, 44, 0.06);
+}
+
+.section-box-5{
+    width: 229px;
+    height: 253px;
+    background: aqua;
+    background-image: url('../image/Rectangle\ 4.png');
+    background-size: cover;
+    box-shadow: 0px 6px 50px 0px rgba(218, 44, 44, 0.06);
+}
+.section-box-6{
+    width: 229px;
+    height: 253px;
+    background: aqua;
+    background-image: url('../image/Rectangle\ 5.png');
+    background-size: cover;
+    box-shadow: 0px 6px 50px 0px rgba(218, 44, 44, 0.06);
+}
+.section-box-7{
+    width: 229px;
+    height: 253px;
+    background: aqua;
+    background-image: url('../image/Rectangle\ 6.png');
+    background-size: cover;
+    box-shadow: 0px 6px 50px 0px rgba(218, 44, 44, 0.06);
+}
+.section-head-ins{
+    text-align: center;
+    color: #272727;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 800;
+}
