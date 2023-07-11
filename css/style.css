@@ -309,20 +309,41 @@ main{
 
 
 /* start footer */
-.footer-box{
-    padding: 16px 196px;
-    border-radius: 10px;
-    
+.box-9{
+   padding: 75px 195px;
+    text-align: center;
+    justify-content: center;
 }
-.footer-contant{
-    padding:15px 130px;
-    border-radius: 10px; 
-}
-
-.box{
-    height: 336px;
-    width: 735px;
-    padding-right: 245px;
+.text-b{
+    height: 254px;
+    width: 982px;
     background-image: url('../image/Rectangle\ 9.png');
-    background-size: 100% 100%;
+    background-size: cover;
+    padding-top: 52px;
+
+
+}
+.text-p{
+    color: #8D8E8F;
+    font-size: 12px;
+}
+.common-f-button{
+    background: #F4B956;
+    border-radius: 8px;
+    border: 0;
+    font-size: 12px;
+    color: white;
+    font-weight: 500;
+    padding: 17px 8px;
+    text-align: center;
+}
+.subscribe input[type="email"]{
+   
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    color: #757575;
+    border-radius: 5px;
+    background: #FFF;
+    border: 0;
+    width: 50%;
 }
