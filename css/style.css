@@ -45,7 +45,7 @@ body{
 
 /*start 1st section*/
 main{
-    display: flex;
+    /* display: flex; */
     padding-top: 110px;
 }
 .section{
@@ -126,4 +126,55 @@ main{
 .tagline{
     text-align: center;
    
+}
+
+/* my unique section start */
+.section-2{
+    /* display: flex; */
+    /* max-width: 1351px; */
+    background-color: #E55473;
+}
+.section-head{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+.section-box{
+    width: 229px;
+    height: 230px;
+    background: aqua;
+    background-image: url('../image/1st.jpg');
+    background-size: cover;
+}
+.box-container{
+    align-items: center;
+    padding: 15px 150px;
+    padding-left: 199px;
+}
+.feature-container{
+    align-items: center;
+    padding: 15px 150px;
+    padding-top: 1px;
+    gap: 2%;
+}
+.featured-button{
+    background: #F4B956;
+    border-radius: 15px;
+    border: 0;
+    font-size: 12px;
+    color: white;
+    font-weight: 400;
+    padding: 12px 20px;
+    padding-top: 3px;
+}
+.featured-bottom{
+    display: flex;
+    max-width: 928px;
+    gap: 2%;
+    padding-left: 125px;
+}
+.all-box{
+    display: flex;
+    gap: 2%;
 }
