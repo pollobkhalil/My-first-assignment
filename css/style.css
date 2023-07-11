@@ -306,3 +306,23 @@ main{
     font-size: 30px;
     font-weight: 800;
 }
+
+
+/* start footer */
+.footer-box{
+    padding: 16px 196px;
+    border-radius: 10px;
+    
+}
+.footer-contant{
+    padding:15px 130px;
+    border-radius: 10px; 
+}
+
+.box{
+    height: 336px;
+    width: 735px;
+    padding-right: 245px;
+    background-image: url('../image/Rectangle\ 9.png');
+    background-size: 100% 100%;
+}
