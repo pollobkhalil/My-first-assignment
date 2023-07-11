@@ -347,3 +347,28 @@ main{
     border: 0;
     width: 50%;
 }
+.flower-shop{
+    height: 500px;
+    background: #020101;
+    display: flex;
+    padding: 20px 180px;
+    align-items: center;
+    justify-content: center;
+    gap: 10%;
+}
+.flower{
+    font-size: 30px;
+    color: #E55473;
+}
+.shop{
+    font-size: 30px;
+    color: #FFF;
+}
+.peragraph{
+    color: #636363;
+    font-size: 12px;
+}
+.copyright{
+    color: #A2A2A2;
+    font-size: 12px;
+}
