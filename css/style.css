@@ -228,3 +228,34 @@ main{
     color: #E55473;
     
 }
+
+
+
+.tex-contant{
+    text-align: center;
+}
+/* .contant{
+    display: flex;
+    justify-content: center;
+} */
+.section-container{
+    height: 500px;
+    background: #FEF6F8;
+    display: flex;
+    padding: 20px 180px;
+    align-items: center;
+    justify-content: center;
+    gap: 10%;
+}
+.section{
+    padding-top: 30px;
+}
+.btn-singup{
+    background: #E55473;
+    border-radius: 15px;
+    border: 0;
+    font-size: 12px;
+    color: white;
+    font-weight: 500;
+    padding: 17px 48px;
+}
